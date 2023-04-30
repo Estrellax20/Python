@@ -12,7 +12,7 @@ import math
 os.environ["OMP_NUM_THREADS"] = '2'
 
 # Define the path to the folder containing the CSV files
-csv_folder_path = "C:/Users/annae/PycharmProjects/Python/Lab2_ofc"
+csv_folder_path = "C:/Users/annae/PycharmProjects/Lab2_ofc"
 
 
 def clustering(points, num_clusters):
